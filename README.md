@@ -30,7 +30,8 @@ It is designed for API teams to accelerate documentation creation and maintain c
 - **Java 8** or higher
 - [Apache POI](https://poi.apache.org/) – For processing Excel files
 - [Jackson](https://github.com/FasterXML/jackson) – For JSON serialization
--**Maven 3.6+**  
+- **Maven 3.6+**  
+
 
   ---
 ## Author
